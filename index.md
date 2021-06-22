@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Jason's Github Pages
 
 You can use the [editor on GitHub](https://github.com/Jason-JuneBugs/Jason-JuneBugs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
